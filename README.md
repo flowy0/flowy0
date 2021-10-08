@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+
+<a href="https://app.daily.dev/flowy0"><img src="https://api.daily.dev/devcards/c3773674d6cd4ee5985016be999a41b5.png?r=yae" width="400" alt="Gayle's Dev Card"/></a>
+
+
 <!--
 **flowy0/flowy0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

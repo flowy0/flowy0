@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 I'm Gayle. 
-I'm currently a Platform Engineer working in DataOps. 
-- 🔭 I’m currently working with Spark and Kubernetes
+I'm currently a Tinkerer.
+- Dipping my toes into Raspberry Pis, Homelabs and Networking
 - 🌱 I’m currently learning about anything Data and Cloud Related.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/gayletan0)
 - 😄 Pronouns: She/Her

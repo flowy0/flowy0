@@ -2,7 +2,7 @@
 
 I'm Gayle. 
 I'm currently a Tinkerer.
-- Dipping my toes into Raspberry Pis, Homelabs and Networking
+- Dipping my toes into Homelabs and Networking
 - 🌱 I’m currently learning about anything Data and Cloud Related.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/gayletan0)
 - 😄 Pronouns: She/Her
